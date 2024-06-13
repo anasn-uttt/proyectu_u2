@@ -25,4 +25,4 @@ dic_data2={
      'linux distribution':'Centos 8'
                 }]
     }
-print(json.dumps(dic.data, indent=2))
+print(json.dumps(dic_data2, indent=2))
